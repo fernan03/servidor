@@ -1,0 +1,22 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "api rest hoteles",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "CESDE"
+  ],
+  "author": "Fernan03",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0"
+  }
+}
